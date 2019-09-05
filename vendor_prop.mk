@@ -44,7 +44,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.audio.fluence.voicerec=true \
     persist.vendor.audio.fluence.speaker=true \
     vendor.audio.tunnel.encode=false \
-    ro.af.client_heap_size_kbyte=7168 \
     persist.vendor.audio.hw.binder.size_kbyte=1024 \
     persist.vendor.audio.ras.enabled=false \
     vendor.audio.offload.buffer.size.kb=32 \
